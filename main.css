@@ -1,9 +1,10 @@
 
-body header{
+body header h1{
     background-color: #EB5757 !important;
     font-family: 'Open Sans', sans-serif !important;
     text-align: center !important;
-    font-size: 1em !important;
+    font-size: 2em !important;
+    padding: .5em !important;
 
 }
 
